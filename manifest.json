@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+  	"name": "Summarizer",
+	"description": "This extension helps you to summarize the webpage content",
+  	"version": "1.0",
+
+	"browser_action": {
+		"default_popup": "example.html"	
+	}
+
+}
